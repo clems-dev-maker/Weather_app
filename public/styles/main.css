@@ -1,0 +1,43 @@
+.weather-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid slateblue;
+}
+
+.card:hover {
+    border-radius: 20px;
+    opacity: 0.8;
+    transition: 0.8s;
+    background-color: #59D5E0;
+}
+
+body {
+    background-color: #C4E4FF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+}
+
+.form-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid slateblue;
+}
+
+
+.about-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid slateblue; 
+}
